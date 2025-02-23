@@ -158,5 +158,3 @@ Conclusion
 The analysis of the AeroFit Treadmill dataset provides critical insights into customer behavior and preferences. By understanding the relationships between demographic and treadmill usage patterns, businesses can optimize their marketing strategies and enhance product targeting to maximize sales.
 
 * * * * *
-
-This README serves as a detailed guide for understanding the dataset, exploratory data analysis, key inferences, and actionable business insights.
